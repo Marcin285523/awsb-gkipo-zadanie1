@@ -11,7 +11,6 @@ Program do wczytywania obrazów z internetu i wykonywania podstawowych operacji 
 - [Funkcjonalności](#funkcjonalności)
 - [Struktura projektu](#struktura-projektu)
 - [Przykład działania](#przykład-działania)
-- [Autor](#autor)
 - [Licencja](#licencja)
 
 ## Opis
